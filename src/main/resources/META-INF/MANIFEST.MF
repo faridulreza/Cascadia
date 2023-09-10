@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.example.cascadia.Launcher
+Class-Path: javafx-graphics-18.0.2.jar javafx-graphics-18.0.2-linux.jar 
+ javafx-fxml-18.0.2-linux.jar javafx-base-18.0.2.jar javafx-base-18.0.2-
+ linux.jar javafx-controls-18.0.2-linux.jar javafx-fxml-18.0.2.jar javaf
+ x-controls-18.0.2.jar
+
